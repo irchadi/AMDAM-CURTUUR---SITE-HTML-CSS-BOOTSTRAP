@@ -1,0 +1,29 @@
+/*selecteur global*/
+nav {
+    background-color: tomato;
+  }
+  
+  /*selecteur avec une classe*/
+  .logo {
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+     
+  }
+    /*version condensée
+      border: solid 5px blue
+      */
+  
+  /*selecteur avec un id*/
+  #main {
+    background-color: yellow;
+  }
+  
+  /*selecteur avec lien de parentalité*/
+  .header button {
+    font-size: 30px;
+  }
+  
+  .quick-action-buttons {
+    background-color: green;
+  }
