@@ -272,8 +272,10 @@ footer {
 EVENTS PAGE
 */
 .events {
-    padding-top: 220px;
-    align-items: center;
+    padding-top: 70px; 
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
 }
 
 .events__image {
@@ -319,9 +321,6 @@ FIRST EVENTS PAGE
     padding-top: 220px;
 }
 
-.events {
-    padding-top: 30%;
-}
 
 .events__agenda1 {
     padding-top: 220px;
@@ -359,4 +358,12 @@ ARTS PAGE
 figcaption {
     padding-bottom: 15%;
     padding-top: 5%;
+}
+
+/*
+ABOUT US PAGE
+*/
+@media (min-width:498px) {
+    .about__description {
+        padding-bottom: 10%;
 }
