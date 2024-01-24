@@ -11,8 +11,7 @@ Le site contient au minimum 2 pages :
 Bien entendu le site est responsive et pensé mobile first !
 
 #### Moyens utilisés
-***
-A list of technologies used within the project:
+
 * [HTML 5](https://https://developer.mozilla.org/fr/docs/Web/HTML)
 * [CSS 3](https://https://developer.mozilla.org/fr/docs/Web/CSS)
 * [google Fonts](https://https://fonts.google.com/?query=lato)
