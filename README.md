@@ -16,3 +16,4 @@ A list of technologies used within the project:
 * [HTML 5](https://https://developer.mozilla.org/fr/docs/Web/HTML)
 * [CSS 3](https://https://developer.mozilla.org/fr/docs/Web/CSS)
 * [google Fonts](https://https://fonts.google.com/?query=lato)
+* [Netlify](https://https://fonts.google.com/?query=lato)
