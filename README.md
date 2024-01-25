@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d682ba78-7073-4c75-9dda-1ecfae8ad82f/deploy-status)](https://app.netlify.com/sites/capable-flan-0695ac/deploys)
 ## AMDAM-CURTUUR---SITE-HTML-CSS-BOOTSTRAP
 
 Évaluation : Créer un site web avec HTML, CSS et Bootstrap.
